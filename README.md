@@ -6,7 +6,7 @@
 
 **Languages and Tools:**
 * Python: pandas, numpy, scipy.stats, matplotlib, seaborn, timedelta, graph_objects, folium, json
-* SQl, PostgreSQL
+* SQL, PostgreSQL
 * Tableau
 
 <!---
