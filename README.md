@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nadezhda Vashuk
 - 👀 I’m interested in product analytics and data visualization
 - 📫 How to reach me: nadejda.vashuk@yandex.ru or https://t.me/nadiaa_va
-- ⚡ Fun fact: I used to dislike English in middle school, but now I'm surrrounded by it and use it almost every day
+- ⚡ Fun fact: I used to dislike English in middle school, but now I'm surrrounded by it and use it every day
 
 
 **Languages and Tools:**
