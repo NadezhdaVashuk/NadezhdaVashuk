@@ -8,6 +8,7 @@
 * Python: pandas, numpy, scipy.stats, matplotlib, seaborn, timedelta, graph_objects, folium, json
 * SQL, PostgreSQL
 * Tableau
+* Excel
 
 <!---
 NadezhdaVashuk/NadezhdaVashuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
